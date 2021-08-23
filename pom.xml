@@ -55,7 +55,7 @@
         <jsp-api.version>3.0.0</jsp-api.version>
         <jstl.version>1.2</jstl.version>
         <bitwalker.version>1.21</bitwalker.version>
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <velocity.version>2.3</velocity.version>
         <oshi.version>5.7.4</oshi.version>
         <thumbnailator.version>0.4.13</thumbnailator.version>
